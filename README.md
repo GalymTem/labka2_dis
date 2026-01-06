@@ -66,8 +66,10 @@ C:
 
 
 A python3 client.py --node http://172.31.28.165:8000 put k 10
+
 <img width="554" height="107" alt="image" src="https://github.com/user-attachments/assets/3ad2e0ed-8539-47ed-bce8-c30aae5b90fe" />
 
 B python3 client.py --node http://172.31.20.250:8001 put m 20
+
 <img width="540" height="101" alt="image" src="https://github.com/user-attachments/assets/9f90aa66-b640-4735-9cd0-40b50ce0c6e3" />
 
