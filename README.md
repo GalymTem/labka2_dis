@@ -1,6 +1,6 @@
 # Distributed Key-Value Store with Eventual Consistency (Lab 2)
 
-**Student Name:** [Your Name]  
+**Student Name:** Temirlan Galymtayev  
 **Date:** [06.01.26]
 
 ## Overview
